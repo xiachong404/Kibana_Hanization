@@ -1,5 +1,118 @@
 [
   {
+    "path": "src/legacy/core_plugins/kibana/index.js",
+    "en": "defaultMessage: 'Discover'",
+    "cn": "defaultMessage: '发现'"
+  },
+  {
+    "path": "src/legacy/core_plugins/kibana/index.js",
+    "en": "defaultMessage: 'Visualize'",
+    "cn": "defaultMessage: '可视化'"
+  },
+  {
+    "path": "src/legacy/core_plugins/kibana/index.js",
+    "en": "defaultMessage: 'Dashboard'",
+    "cn": "defaultMessage: '仪表盘'"
+  },
+  {
+    "path": "src/legacy/core_plugins/kibana/index.js",
+    "en": "defaultMessage: 'Dev Tools'",
+    "cn": "defaultMessage: '开发工具'"
+  },
+  {
+    "path": "src/legacy/core_plugins/kibana/index.js",
+    "en": "defaultMessage: 'Management'",
+    "cn": "defaultMessage: '系统管理'"
+  },
+  {
+    "path": "src/legacy/core_plugins/timelion/index.js",
+    "en": "title: 'Timelion'",
+    "cn": "title: '时间线'"
+  },
+  {
+    "path": "/node_modules/x-pack/plugins/",
+    "en": "defaultMessage: 'Infrastructure'",
+    "cn": "defaultMessage: '基础设施'"
+  },
+  {
+    "path": "/node_modules/x-pack/plugins/",
+    "en": "defaultMessage: 'Logs'",
+    "cn": "defaultMessage: '日志'"
+  },
+  {
+    "path": "/node_modules/x-pack/plugins/monitoring/ui_exports.js",
+    "en": "defaultMessage: 'Monitoring'",
+    "cn": "defaultMessage: '系统监控'"
+  },
+  {
+    "path": "/src/ui/public/chrome/directives/global_nav/global_nav.js",
+    "en": "defaultMessage: 'Collapse'",
+    "cn": "defaultMessage: '折叠'"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "defaultMessage:\"Aggregatable\"",
+    "cn": "defaultMessage:\"可聚合\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "defaultMessage:\"Searchable\"",
+    "cn": "defaultMessage:\"可查询\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "defaultMessage:\"Type\"",
+    "cn": "defaultMessage:\"类型\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "defaultMessage:\"Open Search\"",
+    "cn": "defaultMessage:\"打开已保存的查询\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "defaultMessage:\"New\"",
+    "cn": "defaultMessage:\"新建\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "defaultMessage:\"Save\"",
+    "cn": "defaultMessage:\"保存\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "defaultMessage:\"Open\"",
+    "cn": "defaultMessage:\"打开\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "defaultMessage:\"Share\"",
+    "cn": "defaultMessage:\"分享\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Selected fields",
+    "cn": "已选字段"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Available fields",
+    "cn": "可选字段"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Expand your time range",
+    "cn": "扩大您的时间范围"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "defaultMessage:\"Refresh\"",
+    "cn": "defaultMessage:\"刷新\""
+  },
+
+
+
+  {
     "path": "src/core_plugins/kibana/index.js",
     "en": "title: 'Discover'",
     "cn": "title: '发现'"
